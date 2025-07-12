@@ -1,0 +1,23 @@
+# Composer / PHP
+vendor/
+composer.lock
+
+# Node
+node_modules/
+*.log
+
+# Docker volumes
+data/
+docker/phpmyadmin/
+docker/mysql/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+
+# System
+*.zip
+*.tar.gz
+*.env
+.env.*

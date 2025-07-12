@@ -1,0 +1,22 @@
+{
+    "tabWidth": 4,
+    "useTabs": false,
+    "singleQuote": true,
+    "printWidth": 120,
+    "bracketSpacing": true,
+    "plugins": ["@zackad/prettier-plugin-twig"],
+    "overrides": [
+        {
+            "files": "*.twig",
+            "options": {
+                "parser": "twig",
+                "twigSingleQuote": true,
+                "twigAlwaysBreakObjects": true,
+                "twigFollowOfficialCodingStandards": true,
+                "twigOutputEndblockName": false,
+                "twigIndentInnerHtml": true,
+                "twigMultiLine": false
+            }
+        }
+    ]
+}
