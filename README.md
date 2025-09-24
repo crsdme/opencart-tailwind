@@ -1,24 +1,24 @@
 # OpenCart + Tailwind CSS + Docker Setup
 
-Проект интернет-магазина на OpenCart с использованием Tailwind CSS и Docker-контейнеризации.
+E-commerce project based on OpenCart (ocStore), styled with Tailwind CSS and containerized with Docker.
 
-## 📦 Стек
+## 📦 Stack
 
 - OpenCart (ocStore)
 - Tailwind CSS
 - Docker + Docker Compose
 - PHP 7.4 (Apache)
 - MySQL 5.7
-- Prettier (включая twig-плагины)
+- Prettier (including Twig plugins)
 
-## 🚀 Запуск проекта
+## 🚀 Run (development)
 
 ```bash
 # Собрать и запустить
 docker-compose up -d --build
 ```
 
-change log
+## 📝 Changelog
 
 - new theme tailwind
 - new structure `layout / head`
