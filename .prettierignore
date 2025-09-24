@@ -17,3 +17,12 @@ build/
 coverage/
 storage/
 logs/
+
+scripts-min.js
+tailwind.css
+htaccess
+.htaccess
+
+controller/
+model/
+view/theme/default/

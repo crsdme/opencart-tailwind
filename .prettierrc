@@ -4,8 +4,14 @@
     "singleQuote": true,
     "printWidth": 120,
     "bracketSpacing": true,
-    "plugins": ["@zackad/prettier-plugin-twig"],
+    "plugins": ["@prettier/plugin-php", "@zackad/prettier-plugin-twig"],
     "overrides": [
+        {
+            "files": "*.php",
+            "options": {
+              "parser": "php"
+            }
+        },
         {
             "files": "*.twig",
             "options": {
@@ -14,8 +20,9 @@
                 "twigAlwaysBreakObjects": true,
                 "twigFollowOfficialCodingStandards": true,
                 "twigOutputEndblockName": false,
-                "twigIndentInnerHtml": true,
-                "twigMultiLine": false
+                "twigIndentInnerHtml": false,
+                "twigMultiLine": false,
+                "twigFormatEmbeddedCode": false
             }
         }
     ]
