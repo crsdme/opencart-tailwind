@@ -2,6 +2,10 @@
 vendor/
 composer.lock
 
+# OpenCart
+public_html/system/storage/
+public_html/image/cache/
+
 # Node
 node_modules/
 *.log
