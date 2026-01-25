@@ -14,9 +14,17 @@ E-commerce project based on OpenCart (ocStore), styled with Tailwind CSS and con
 ## 🚀 Run (development)
 
 ```bash
-# Собрать и запустить
 docker-compose up -d --build
+
+clear config.php file
+
+localhost:8080/install
+
+set tailwind extension/theme
 ```
+
+## Need to add
+- turn off/on pages
 
 ## 📝 Changelog
 

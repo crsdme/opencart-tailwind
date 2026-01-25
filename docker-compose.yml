@@ -11,9 +11,11 @@ services:
       MYSQL_USER: opencart
       MYSQL_PASSWORD: opencart
     volumes:
-      - ./data/mysql:/var/lib/mysql
+      - ./docker/mysql/data:/var/lib/mysql
     networks:
-      - ocnet
+      ocnet:
+        aliases:
+          - mysql-db
 
   php:
     build:

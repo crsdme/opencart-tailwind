@@ -5,6 +5,8 @@ composer.lock
 # OpenCart
 public_html/system/storage/
 public_html/image/cache/
+public_html/admin/config.php
+public_html/config.php
 
 # Node
 node_modules/
@@ -13,7 +15,7 @@ node_modules/
 # Docker volumes
 data/
 docker/phpmyadmin/
-docker/mysql/
+docker/mysql/data/
 
 # IDE / OS
 .idea/
