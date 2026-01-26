@@ -23,8 +23,22 @@ localhost:8080/install
 set tailwind extension/theme
 ```
 
-## Need to add
+## To do list
 - turn off/on pages
+- minifying
+- webp images
+- languages
+- checkout
+- cart
+- product page
+- check microdata
+- check sitemap
+- favorite
+- compare
+- account
+
+- check setup default theme
+- translates for tailwind
 
 ## 📝 Changelog
 
