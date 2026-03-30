@@ -20,14 +20,14 @@ clear config.php file
 
 localhost:8080/install
 
-set tailwind extension/theme
+set tailwind theme in admin panel (extension/theme)
 ```
 
 ## To do list
 - turn off/on pages
-- minifying
+- minifying css/js/html
 - webp images
-- languages
+- create addons for languages
 - checkout
 - cart
 - product page
@@ -36,9 +36,12 @@ set tailwind extension/theme
 - favorite
 - compare
 - account
-
+- variant for sqlLite
+- md file in admin
+- interface admin refactor
 - check setup default theme
-- translates for tailwind
+- lang translates for tailwind
+- no js navigation fallback
 
 ## 📝 Changelog
 
@@ -50,3 +53,6 @@ set tailwind extension/theme
 - added new conroller/model for theme
 - added common/microdata
 - added extension/feed/sitemap
+- added secured admin url
+- added library custom/router
+- configured .htaccess
