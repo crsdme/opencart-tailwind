@@ -1,9 +1,11 @@
 # Composer / PHP
-vendor/
 composer.lock
 
 # OpenCart
-public_html/system/storage/
+public_html/system/storage/cache/
+public_html/system/storage/download/
+public_html/system/storage/modification/
+public_html/system/storage/session/
 public_html/image/cache/
 public_html/admin/config.php
 public_html/config.php
