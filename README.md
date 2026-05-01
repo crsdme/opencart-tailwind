@@ -21,6 +21,10 @@ clear config.php file
 localhost:8080/install
 
 set tailwind theme in admin panel (extension/theme)
+
+set Semantic URL in admin panel (settings/settings)
+
+set Seo Pro in admin panel (settings/settings)
 ```
 
 ## To do list
