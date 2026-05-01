@@ -24,10 +24,11 @@ set tailwind theme in admin panel (extension/theme)
 ```
 
 ## To do list
+
 - turn off/on pages
 - minifying css/js/html
 - webp images
-- create addons for languages
+- create addons for languages like
 - checkout
 - cart
 - product page
@@ -36,12 +37,14 @@ set tailwind theme in admin panel (extension/theme)
 - favorite
 - compare
 - account
-- variant for sqlLite
+- variant products
+- points
 - md file in admin
 - interface admin refactor
 - check setup default theme
 - lang translates for tailwind
-- no js navigation fallback
+- configure .htaccess
+- windows - linux bind dev speed error
 
 ## 📝 Changelog
 
@@ -55,4 +58,3 @@ set tailwind theme in admin panel (extension/theme)
 - added extension/feed/sitemap
 - added secured admin url
 - added library custom/router
-- configured .htaccess
