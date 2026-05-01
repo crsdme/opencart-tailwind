@@ -31,7 +31,6 @@ set Seo Pro in admin panel (settings/settings)
 
 - turn off/on pages
 - minifying css/js/html
-- webp images
 - create addons for languages like
 - checkout
 - cart
@@ -62,3 +61,5 @@ set Seo Pro in admin panel (settings/settings)
 - added extension/feed/sitemap
 - added secured admin url
 - added library custom/router
+- added webp images
+- added dev_dump (alt var_dump) func for debug
