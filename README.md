@@ -35,6 +35,7 @@ set Seo Pro in admin panel (settings/settings)
 - auto meta tags
 - faq
 - show more products
+- auto backup
 - checkout
 - cart
 - product page
