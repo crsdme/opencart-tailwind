@@ -105,40 +105,6 @@
     - files like `system/storage/cache/sitemap_<name>_store<id>_lang<id>.xml`.
 - `robots.txt` points search engines to sitemap entry via `Sitemap: https://site.com/sitemap.xml` (replace domain in real env).
 
-# COMPONENTS
-
-## BUTTONS
-
-## MODALS
-
-## SHEETS
-
-## BADGES
-
-## HEADER
-
-## FOOTER
-
-## SLIDER
-
-## TYPOFRAPHY
-
-## PRODUCT CARD
-
-## BREADCRUMBS
-
-## PAGINATION
-
-## IMPUNTS
-
-## DROPDOWN
-
-## MENU
-
-## FORM
-
-## SYSTEM
-
 # DEV TOOLS
 
 ## PREETIER
