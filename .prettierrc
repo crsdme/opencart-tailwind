@@ -1,11 +1,10 @@
 {
-    "semi": false,
     "tabWidth": 4,
     "useTabs": true,
     "singleQuote": true,
     "printWidth": 120,
     "bracketSpacing": true,
-    "plugins": ["@prettier/plugin-php", "@zackad/prettier-plugin-twig", "prettier-plugin-tailwindcss"],
+    "plugins": ["@prettier/plugin-php", "@zackad/prettier-plugin-twig"],
     "tailwindConfig": "./tailwind.config.js",
     "overrides": [
         {
@@ -19,7 +18,7 @@
             "options": {
                 "parser": "twig",
                 "twigSingleQuote": false, 
-                "twigAlwaysBreakObjects": false,
+                "twigAlwaysBreakObjects": true,
                 "twigFollowOfficialCodingStandards": false,
                 "twigOutputEndblockName": false,
                 "printWidth": 160
