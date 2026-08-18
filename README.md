@@ -2,6 +2,33 @@
 
 E-commerce project based on OpenCart (ocStore), styled with Tailwind CSS and containerized with Docker.
 
+## Legacy
+
+**OpenCart. Legacy. We know.**  
+**Maybe a trash can. Trash cannot.**
+
+A kit for OpenCart. The engine is legacy. We know.
+
+### Why
+
+OpenCart shops are still here. What usually grows around them is noise: extra modules, edits on a live site, styles that stop making sense over time.
+
+**Legacy** puts in one place the things a shop needs before production — and lets you change the platform piece by piece.
+
+### How
+
+Not a pile of add-ons, but a shared core: markup, sitemap, languages, bundling, images, components, accessibility.
+
+No work on production. Same environment, architecture, and code style while you write.
+
+Styles do not pile up as a dead layer over the years. Components live next to their look and leave with it.
+
+### Stance
+
+OpenCart is legacy. Not an excuse. Not a flaw. The point where the work starts.
+
+Maybe a trash can. Trash cannot.
+
 ## 📦 Stack
 
 - OpenCart (ocStore)
@@ -52,6 +79,7 @@ http://localhost:8080/index.php?route=common/components
 - account
 - variant products
 - points
+- logs speed each controller fint start and end 
 - md file in admin
 - interface admin refactor
 - check setup default theme
