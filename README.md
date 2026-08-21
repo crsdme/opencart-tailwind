@@ -62,6 +62,7 @@ http://localhost:8080/index.php?route=common/components
 
 ## To do list
 
+- legacy-cart.com buy domain
 - turn off/on pages
 - minifying css/js/html
 - create addons for languages like
@@ -72,14 +73,18 @@ http://localhost:8080/index.php?route=common/components
 - checkout
 - cart
 - product page
+- 410 page
+- faq with turnoff selector
 - check microdata
 - check sitemap
+- rework folder architecture
+- refactor extensions
 - favorite
 - compare
 - account
 - variant products
 - points
-- logs speed each controller fint start and end 
+- logs speed each controller fint start and end
 - md file in admin
 - interface admin refactor
 - check setup default theme
